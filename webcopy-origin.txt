@@ -1,0 +1,112 @@
+Uri: https://bakedbeans.app/
+File Name: C:\Downloaded Web Sites\bakedbeans.app\index.htm
+Content Type: text/html
+
+Uri: https://bakedbeans.app/favicon.png
+File Name: C:\Downloaded Web Sites\bakedbeans.app\favicon.png
+Content Type: image/png
+
+Uri: https://bakedbeans.app/logo.png
+File Name: C:\Downloaded Web Sites\bakedbeans.app\logo.png
+Content Type: image/png
+
+Uri: https://bakedbeans.app/manifest.json
+File Name: C:\Downloaded Web Sites\bakedbeans.app\manifest.json
+Content Type: application/json
+
+Uri: https://bakedbeans.app/poseytextured.woff2
+File Name: C:\Downloaded Web Sites\bakedbeans.app\poseytextured.woff2
+Content Type: font/woff2
+
+Uri: https://bakedbeans.app/static/css/main.c06baedf.chunk.css
+File Name: C:\Downloaded Web Sites\bakedbeans.app\static\css\main.c06baedf.chunk.css
+Content Type: text/css
+
+Uri: https://bakedbeans.app/static/js/2.fb49b8ca.chunk.js
+File Name: C:\Downloaded Web Sites\bakedbeans.app\static\js\2.fb49b8ca.chunk.js
+Content Type: application/javascript
+
+Uri: https://bakedbeans.app/static/js/main.a343a246.chunk.js
+File Name: C:\Downloaded Web Sites\bakedbeans.app\static\js\main.a343a246.chunk.js
+Content Type: application/javascript
+
+Uri: https://bakedbeans.app/static/media/bg.08ec5ec3.jpg
+File Name: C:\Downloaded Web Sites\bakedbeans.app\static\media\bg.08ec5ec3.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\bakedbeans.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\bakedbeans.app\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
